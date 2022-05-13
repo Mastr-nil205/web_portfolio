@@ -1,0 +1,39 @@
+body {
+    background-color: grey;
+    color: rgba(44, 99, 161, 0.788);
+    display: block;
+}
+
+.navbar {
+    background-color: rgb(12, 18, 22);
+    color: rgb(161, 179, 190);
+    padding: 5px;
+}
+header {
+    position: relative;
+    background-color: blueviolet;
+} 
+.intro {
+    font-size: 25px;
+    color: black;
+    text-shadow: -3px 2px 1px white;
+    margin: 65px;
+    padding: 50px;
+    text-align: center;
+}
+
+.skills {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-weight: 100;
+    font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 100px;
+}
+
+#main_skills {
+    font-size: large;
+    color: white;
+    padding-left: 110px;
+}
